@@ -1,0 +1,1 @@
+# android_device_samsung_hlte-common-include-samsung_ril.h
